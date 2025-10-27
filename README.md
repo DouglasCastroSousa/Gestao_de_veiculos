@@ -192,3 +192,102 @@ Notas {
 ### Equipes
 
   
+<details>
+<summary>Equipe 01</summary>
+<ul>
+<li>Diego de Castro Sousa - 202504090177</li>
+<li>Douglas de Castro Sousa - 202508237938</li>
+<li>Paulo Camilo da Silva Viana - 202403732531</li>
+<li>Thiago Dias Vasconcelos - 202503291608</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 02</summary>
+<ul>
+<li>Widley Cunha Sousa - 202502509121</li>
+<li>Samuel Vitor Batista Maciel - 202502271735</li>
+<li>Arthur Bruno - 202503806357</li>
+<li>Deivid Kenedy - 202502339658</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 03</summary>
+<ul>
+<li>Thales Bezerra Farias - 202503584869</li>
+<li>Endryw Vieira de Oliveira - 202502215411</li>
+<li>Marcelo Mendes Brito - 202502380071</li>
+<li>Breno Almeida Barros - 202503567697</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 04</summary>
+<ul>
+<li>Raimundo Roberto Silva Vale - 202502242417</li>
+<li>Andrew Pereira de Sousa - 202503289336</li>
+<li>James do Nascimento Rodrigues - 202502352786</li>
+<li>Ronaldy Brandão Rufino - 202502216751</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 05</summary>
+<ul>
+<li>Ruan Riquelme de Almeida Pereira da Silva - 202502216886</li>
+<li>Erbete Waslley da Silva Pontes - 202502380321</li>
+<li>João Victor dos Santos Lima - 202502321058</li>
+<li>Pedro José da Silva Ribeiro Albano - 202502525176</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 06</summary>
+<ul>
+<li>Samir Jefferson Silva Fechine - 202502535619</li>
+<li>Cauã França Justino - 202504263721</li>
+<li>Ítalo Sávio - 202302338721</li>
+<li>Karla Letícia Galvão - 202408175558</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 07</summary>
+<ul>
+<li>Josefa Helaíne Quintino Lavor Andrade - 202502247133</li>
+<li>Andrey Ricardo de Souza Ramos - 202508322137</li>
+<li>Ana Beatriz Martins Tavares - 202502425685</li>
+<li>Pedro Henrique Santos de Freitas - 202503112207</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 08</summary>
+<ul>
+<li>Luísa Lara Araújo da Silva - 202504081241</li>
+<li>Vitor Alexandre Pinheiro da Silva - 202503723851</li>
+<li>Rubens Nogueira Teles Filho - 202503073929</li>
+<li>Antonio Peterson Romoaldo da Silva - 202503846278</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 09</summary>
+<ul>
+<li>Maria Eduarda Alves Guimarães - 202508268469</li>
+<li>Kevin Soares da Silva - 202502244941</li>
+<li>Melquisedeque Costa dos Santos - 202508648954</li>
+<li>Filipe Alves Marinho - 202502508689</li>
+</ul>
+</details>
+
+<details>
+<summary>Equipe 10</summary>
+<ul>
+<li>Cauã Oliveira Rodrigues - 202505066831</li>
+<li>Antônia Rayka Maria de Freitas Pinho - 202502808321</li>
+<li>Lucas de Alencar Alcântara - 202502339291</li>
+<li>Sammy Ruan Ribeiro Nogueira - 202502296053</li>
+</ul>
+</details>
