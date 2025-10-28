@@ -1,7 +1,7 @@
 # AUTOVIA
 
 ## link de acesso ao nosso site:
-<a href="https://douglascastrosousa.github.io/Gestao_de_veiculos/" target="_blank">Site de apoio em Python</a>
+<a href="https://douglascastrosousa.github.io/Gestao_de_veiculos/" target="_blank">Site de gestão de veículos</a>
 
 ## Trabalho Final
 
