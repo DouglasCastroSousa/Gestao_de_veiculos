@@ -40,5 +40,16 @@ new Chart(DIV_GRAF1, {
     }
   });
 
+// adicionando API ao meu dashboard
+async function loadmessage(){
+  const mensagem = document.getElementById("boas_vindas");
+  const url = 'https://api.adviceslip.com/advice';
 
+  const response = await fetch(url);
+  const datas = await response.json();
 
+  mensagem.textContent = datas.slip.advice; // coloca o conselho no HTML
+
+}
+
+loadmessage();
