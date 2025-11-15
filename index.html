@@ -10,6 +10,9 @@
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
     <link rel="stylesheet" href="css/custom.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"
+        defer></script>
 </head>
 
 <body class="container-fluid">
@@ -21,21 +24,25 @@
         <div class="col-4">
             <div class="h-100 d-flex justify-content-center align-items-center flex-column">
                 <h1 class="text-center">login</h1>
-                <form class="w-75" action="dashboard.html" id="form_login" novalidate>
-                    <input id="email" class="form-control form-control-lg" type="email" placeholder="Email" required>
-                    <input id="senha" class="form-control form-control-lg mt-3 mb-2" type="password" placeholder="Senha" required minlength="6">
-
+                <form class="w-75 needs-validation" action="dashboard.html" novalidate>
+                    <div class="mb-2">
+                        <input id="email" class="form-control form-control-lg" type="email" placeholder="Email"
+                            required>
+                        <div class="invalid-feedback">email preenchido incorretamente</div>
+                        <div class="valid-feedback">email preenchido corretamente</div>
+                    </div>
+                    <div class="mb-2">
+                        <input id="senha" class="form-control form-control-lg mt-2 mb-2" type="password"
+                            placeholder="Senha" required minlength="6">
+                        <div class="invalid-feedback">senha preenchido incorretamente</div>
+                        <div class="valid-feedback">senha preenchida corretamente</div>
+                    </div>
                     <button class="btn btn-dark btn-lg w-100">ENTRAR</button>
-                    <div id="validar_erro"><br></div>
-
                 </form>
             </div>
         </div>
     </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
-        crossorigin="anonymous"></script>
     <script src="js/login.js"></script>
 </body>
 
