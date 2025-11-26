@@ -1,4 +1,36 @@
+*{
+    transition: 1s;
+}
+
 html, body {
     height: 100%;
-    background-color: #EFEFEF;
+}
+
+body[data-bs-theme="light"]{
+    background-color: rgb(233, 233, 233);
+}
+
+body[data-bs-theme="dark"]{
+    background-color: rgb(55, 56, 67);
+}
+
+td a{
+    min-width:100px;
+    max-height: 120px;
+}
+
+body[data-bs-theme="light"] .edit{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 193, 7) !important;
+}
+body[data-bs-theme="light"] .edit:hover{
+    background-color: rgb(255, 208, 67) !important;
+}
+
+body[data-bs-theme="light"] .delete{
+    color: rgb(0, 0, 0);
+    background-color: rgb(220, 53, 69) !important;
+}
+body[data-bs-theme="light"] .delete:hover{
+    background-color: rgb(234, 93, 107) !important;
 }
