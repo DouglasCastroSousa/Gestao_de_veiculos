@@ -49,6 +49,8 @@ async function loading_message() {
     const dados = await resposta.json();
 
     const mensagem_em_ingles = dados.slip.advice;
+
+    texto.textContent = (mensagem_em_ingles);
     
     const texto_para_url = encodeURIComponent(mensagem_em_ingles)
     const lingua_origem = "en";
